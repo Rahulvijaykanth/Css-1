@@ -1,0 +1,38 @@
+.text{
+    color: red;
+}
+
+.text1{
+    color: red;
+    font-style: italic;
+}
+
+.text2{
+    color: red;
+    font-style: italic;
+}
+
+.book{
+    letter-spacing: 7px;
+}
+
+.text3{
+    color: red;
+    font-style: italic;
+}
+
+.text4{
+    background-color: yellow;
+}
+
+.text5{
+    background-color: yellow;
+}
+
+.text6{
+    background-color: yellow;
+}
+
+.text7{
+    text-decoration: line-through;
+}
